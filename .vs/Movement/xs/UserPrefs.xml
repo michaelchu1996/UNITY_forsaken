@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{250BE2A9-3B4B-C1B5-9916-2B285EE5634D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PauseMenuScript.cs">
+    <Files>
+      <File FileName="Assets/HP/Script/HealthBar.cs" Line="20" Column="2" />
+      <File FileName="Assets/HP/Script/HungerBar.cs" Line="2" Column="10" />
+      <File FileName="Assets/HP/Script/GameHandler.cs" Line="31" Column="13" />
+      <File FileName="Assets/HP/Gun/Scripts/Weapons/Gun Components/GunBody.cs" Line="65" Column="1" />
+      <File FileName="Assets/HP/Script/Location.cs" Line="14" Column="49" />
+      <File FileName="Assets/Scripts/CompleteCameraController.cs" Line="52" Column="1" />
+      <File FileName="Assets/PauseMenuScript.cs" Line="59" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
