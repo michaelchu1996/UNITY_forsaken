@@ -1,0 +1,2 @@
+C:\Users\anthony\Documents\hku\3329\Movement\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\anthony\Documents\hku\3329\Movement\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

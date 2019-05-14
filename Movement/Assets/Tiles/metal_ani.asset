@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: metal_ani
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 21300000, guid: b707ae5d1b915e741b9d04ee83740a2c, type: 3}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Neighbors: 0000000000000000000000000000000000000000000000000000000000000000
+    m_Sprites:
+    - {fileID: 21300000, guid: b707ae5d1b915e741b9d04ee83740a2c, type: 3}
+    - {fileID: 21300000, guid: a547ce5fe564f45479c879ad3d60f120, type: 3}
+    - {fileID: 21300000, guid: b3e76a45ecdfe754aa7a8db5c9833876, type: 3}
+    - {fileID: 21300000, guid: 1b266eae6071c6d45be2f4b617dcdb9d, type: 3}
+    - {fileID: 21300000, guid: 3911cbf29d823694292f30dcc10e3494, type: 3}
+    - {fileID: 21300000, guid: 1b266eae6071c6d45be2f4b617dcdb9d, type: 3}
+    - {fileID: 21300000, guid: b3e76a45ecdfe754aa7a8db5c9833876, type: 3}
+    - {fileID: 21300000, guid: a547ce5fe564f45479c879ad3d60f120, type: 3}
+    m_AnimationSpeed: 5
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 2
+    m_ColliderType: 1
+    m_RandomTransform: 0
